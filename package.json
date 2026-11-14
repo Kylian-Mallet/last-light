@@ -1,0 +1,21 @@
+{
+  "name": "last-light",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "pnpm@12.6.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "models": "bash scripts/compress-models.sh"
+  },
+  "dependencies": {
+    "lil-gui": "0.21.0",
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "@gltf-transform/cli": "4.1.1",
+    "vite": "8.3.8"
+  }
+}

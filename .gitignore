@@ -1,0 +1,11 @@
+node_modules
+dist
+assets/source/*.glb
+dist-share
+.backups
+# secrets (ElevenLabs API key) and local tool caches
+.env
+.DS_Store
+.impeccable
+.glbtmp
+.claude/

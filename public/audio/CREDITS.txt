@@ -1,0 +1,17 @@
+Audio sources (CC0 / public domain dedication unless noted):
+- Emperor penguin calls: iNaturalist observation 200575498 by stevestevens (CC0)
+- King penguin calls, South Georgia: iNaturalist observations 201315884 and 107786677 by stevestevens (CC0)
+- Snow footsteps: freesound.org #348248 "SNOW-STEP-CRUNCH" by newagesoup (CC0); #611277 "Footsteps on snow" by xkeril (CC0)
+- Penguin colony ambience, Gourdin Island (Antarctic Peninsula): freesound.org #150873 by al.barbosa (CC0)
+- Arctic wind bed: freesound.org #117136 "Wind__Artic__Cold" by cobratronik (CC0)
+- Blizzard: freesound.org #573290 "Blizzard" by kevp888 (Kevin Luce), licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), re-encoded
+Clips were cut, normalised and re-encoded to AAC for the web.
+
+Emperor penguin chick calls (chick_zs_*.m4a) and the crèche chatter loop (loop_creche.m4a)
+  Isolated from a "Zapping Sauvage" clip (France Télévisions) found on YouTube.
+  High-passed above 1.15-1.2 kHz to strip the voice-over and music, denoised, trimmed;
+  the loop joins the stretches between narration lines.
+
+Score (music/*.mp3)
+  Nine orchestral cues generated with ElevenLabs Music (music_v2_5, instrumental) from the
+  cue sheet in docs/music.md; loops trimmed before their fade-outs.
