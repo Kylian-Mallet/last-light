@@ -181,7 +181,7 @@ export const pad = new Pad();
 // ---------------------------------------------------------------------------
 // Menus: spatial focus navigation inside whichever panel is open.
 
-const FOCUSABLE = 'button:not([disabled]), input[type=range], [tabindex]:not([tabindex="-1"])';
+const FOCUSABLE = 'button:not([disabled]), a[href], input[type=range], [tabindex]:not([tabindex="-1"])';
 
 function visible(el) {
   if (!el.isConnected) return false;

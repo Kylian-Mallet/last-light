@@ -15,6 +15,7 @@ const STRINGS = {
     'error.start': 'Failed to start:',
     'aria.language': 'Language',
     'aria.mouse': 'mouse',
+    'aria.github': 'Source code on GitHub',
     'skip': 'Hold {key} to skip',
 
     'chapter.1': 'I · The colony',
@@ -165,6 +166,7 @@ const STRINGS = {
     'error.start': 'Impossible de démarrer :',
     'aria.language': 'Langue',
     'aria.mouse': 'souris',
+    'aria.github': 'Code source sur GitHub',
     'skip': 'Maintenir {key} pour passer',
 
     'chapter.1': 'I · La colonie',
